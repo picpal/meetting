@@ -1,6 +1,7 @@
 # meetting
-NextJs 기반 게시판
+NextJs + React + MongoDB 게시판
 글쓰기 , 목록 , 목록 상세 페이지 기본 제작
+
 
 ## 설치 방법
 github에서 프로젝트를 내려받기 후 아래 코드를 실행하여 package설치
